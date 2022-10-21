@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Zeren
+![GitHub followers](https://img.shields.io/github/followers/followb1ind1y?style=social)
 
 <!--
 **Followb1ind1y/Followb1ind1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
