@@ -8,13 +8,15 @@
 <p align="center"> 
     <a href="https://github.com/Followb1ind1y" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Followb1ind1y-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/zeren-shen-566a9119b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Zeren Shen-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://followb1ind1y.github.io/WechatQR.jpeg" target="_blank"><img alt="WeChat" src="https://img.shields.io/badge/-Followblindly-4C1?style=flat-square&logo=wechat&logoColor=white"></a> 
+    <a href="https://followb1ind1y.github.io/WechatQR.jpeg" target="_blank"><img alt="WeChat" src="https://img.shields.io/badge/-Followblindly-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
+    <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
 
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 💡 Learning all about Data Science and Machine Learning.
 * 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
+* 📄 Here is my Resume: <a href="https://github.com/Followb1ind1y/myblog.dev.repo/blob/main/static/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
 * 📧 Reach me: <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-zeren71415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <p align="center">
@@ -32,13 +34,13 @@
 </p>
 
 <div align="center">
-<h3> Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-hand-dating-app-flaticons-lineal-color-flat-icons.png" width="35"></a>
+<h3> Connect with me <img src="https://img.icons8.com/color/48/000000/high-five-skin-type-2.png" width="35"></a>
 </h3> 
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/zeren-shen-566a9119b/" target="_blank"><img alt="LinkedIn" width="35px" src="https://img.icons8.com/color/144/000000/linkedin.png"></a>
-    <a href="https://www.instagram.com/followblind1y/" target="_blank"><img alt="Instagram" width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
-    <a href="https://www.facebook.com/zeren.shen" target="_blank"><img alt="Facebook" width="35px" src="https://img.icons8.com/color/144/000000/facebook.png"></a>
-    <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://img.icons8.com/color/144/000000/gmail-new.png"></a> 
+    <a href="https://www.linkedin.com/in/zeren-shen-566a9119b/" target="_blank"><img alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"></a>
+    <a href="https://www.instagram.com/followblind1y/" target="_blank"><img alt="Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+    <a href="https://www.facebook.com/zeren.shen" target="_blank"><img alt="Facebook" width="30px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"></a>
+    <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail--v1.png"></a> 
 </p>
