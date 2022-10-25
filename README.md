@@ -16,7 +16,7 @@
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 💡 Learning all about Data Science and Machine Learning.
 * 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
-* 📄 Here is my Resume: <a href="https://github.com/Followb1ind1y/myblog.dev.repo/blob/main/static/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
+* 📄 Here is my Resume: <a href="https://followb1ind1y.github.io/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
 * 📧 Reach me: <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-zeren71415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <p align="center">
