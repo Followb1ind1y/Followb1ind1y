@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
 
-* 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto, St. George</b>.
+* 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 💡 Learning all about Data Science and Machine Learning.
 * 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
