@@ -12,8 +12,8 @@
     <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
 
-* 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
+* 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 💡 Learning all about Data Science and Machine Learning.
 * 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
 * 📄 Here is my Resume: <a href="https://followb1ind1y.github.io/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
