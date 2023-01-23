@@ -16,7 +16,7 @@
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 💡 Learning all about Data Science and Machine Learning.
 * 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
-* 📜 Journal Article: [*Image Segmentation for Defect Analysis in Laser Powder Bed Fusion: Deep Data Mining of X-Ray Photography from Recent Literature (2022)*](https://doi.org/10.1007/s40192-022-00272-5)
+* 📜 Journal Article: [*Image Segmentation for Defect Analysis in Laser Powder Bed Fusion (2022)*](https://doi.org/10.1007/s40192-022-00272-5)
 * 📄 Here is my Resume: <a href="https://followb1ind1y.github.io/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
 * 📧 Reach me: <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-zeren71415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
