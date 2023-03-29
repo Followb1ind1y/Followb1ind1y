@@ -16,7 +16,7 @@
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 💡 Learning all about Data Science and Machine Learning.
 * 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
-* 📄 Here is my Resume: <a href="https://followb1ind1y.github.io/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
+* 📄 Here is my Resume: <a href="https://drive.google.com/file/d/1goj44V2G2n9pOL26dHJP3oW60jIBJx-l/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
 * 📧 Reach me: <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-zeren71415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <p align="center">
