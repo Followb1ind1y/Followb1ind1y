@@ -1,5 +1,6 @@
 <h2 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I am Zeren! A Machine Learning Engineer with a focus on 3D Motion and Computer Vision.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I am Zeren! A Machine Learning Engineer specializing in Generative AI, with expertise in 3D motion generation, computer vision, and large language models.
+
 </h2> 
 
 <p align="center">   
@@ -12,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
 
-* 💼 Currently a Machine Learning Engineer at <b>ThinkGenAI Lab Inc.</b>, focusing on 3D motion generation and computer vision.
+* 💼 Machine Learning Engineer at <b>ThinkGenAI Lab Inc.</b>, specializing in 3D motion generation and computer vision. Open to exploring innovative projects and collaborations in Generative AI.
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 🌟 Passionate about Generative AI, specializing in computer vision, 3D motion generation, and large language models (LLMs) to create innovative and immersive experiences.
