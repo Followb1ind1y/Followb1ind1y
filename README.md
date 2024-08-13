@@ -1,5 +1,6 @@
 <h2 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I am Zeren! A Machine Learning Engineer specializing in Generative AI, with expertise in 3D motion generation, computer vision, and large language models.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm Zeren! A Machine Learning Engineer specializing in Generative AI, 3D motion, and computer vision.
+
 
 </h2> 
 
