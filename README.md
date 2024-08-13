@@ -1,5 +1,5 @@
 <h2 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I am Zeren! A Master’s student at the University of Toronto.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I am Zeren! A Machine Learning Engineer with a focus on 3D Motion and Computer Vision.
 </h2> 
 
 <p align="center">   
@@ -12,10 +12,10 @@
     <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
 
+* 💼 Currently a Machine Learning Engineer at <b>ThinkGenAI Lab Inc.</b>, focusing on 3D motion generation and computer vision.
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
-* 💡 Learning all about Data Science and Machine Learning.
-* 🌟 Current research pursuit: Deep Learning, Computer Vision, and Reinforcement Learning.
+* 🌟 Passionate about 3D motion, vision, AR/VR, and creating innovative solutions in these fields.
 * 📄 Here is my Resume: <a href="https://drive.google.com/file/d/1goj44V2G2n9pOL26dHJP3oW60jIBJx-l/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
 * 📧 Reach me: <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-zeren71415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
