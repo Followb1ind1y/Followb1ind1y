@@ -9,7 +9,7 @@
 </p> 
 <p align="center"> 
     <a href="https://github.com/Followb1ind1y" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Followb1ind1y-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/zeren-shen-566a9119b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Zeren Shen-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/zeren-shen-566a9119b/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
     <a href="https://followb1ind1y.github.io/WechatQR.jpeg" target="_blank"><img alt="WeChat" src="https://img.shields.io/badge/-Followblindly-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
     <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
