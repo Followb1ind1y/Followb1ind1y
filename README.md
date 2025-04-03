@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=Followb1ind1y" alt="Followb1ind1y"/> 
 </p> 
 
-* 💼 Machine Learning Engineer at <b>ThinkGenAI Lab Inc.</b>, specializing in 3D motion generation and computer vision. Open to exploring innovative projects and collaborations in Generative AI.
+* 💼 Machine Learning Engineer with a focus on LLMs, Generative AI, and 3D Motion Analysis. Open to exploring innovative projects and collaborations in Generative AI.
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 🌟 Passionate about Generative AI, specializing in computer vision, 3D motion generation, and large language models (LLMs) to create innovative and immersive experiences.
