@@ -18,7 +18,7 @@
 * 🎓 Master of Engineering, Mechanical and Industrial Engineering (Emphasis in Analytics) at the <b>University of Toronto</b>.
 * 👨‍🎓 Bachelor of Mathematics major in Statistics and Actuarial Science (Predictive Analytics Specialization) at the <b>University of Waterloo</b>.
 * 🌟 Passionate about Generative AI, specializing in computer vision, 3D motion generation, and large language models (LLMs) to create innovative and immersive experiences.
-* 📄 Here is my Resume: <a href="https://drive.google.com/file/d/1goj44V2G2n9pOL26dHJP3oW60jIBJx-l/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
+* 📄 Here is my Resume: <a href="https://drive.google.com/file/d/1RplN0E_unrZewLA41nReg1CT9U5sZwUs/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/MyResume-blue"></a>
 * 📧 Reach me: <a href="mailto:zeren71415@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-zeren71415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <p align="center">
